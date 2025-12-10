@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @GarrettRLee
-- 👀 I’m interested in practicing Technical Writing
-- 🌱 I’m currently learning how to write documentation
-- 💞️ I’m looking to collaborate on any projects that need a Technical Writer
-- 📫 Reach me @ garrettlee.grl@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play guitar!
+<h1 align="center">Yo! I'm Garrett</h1>  
+<h3 align="center">Technical Writer from the American Midwest</h3>
 
-<!---
-GarrettRLee/GarrettRLee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Learning how to code, and documenting the process!
+
+## Work 💻
+I have experience with writing user manuals, training materials, and proposals.  
+My documentation work has been created through Notebook++ and Microsoft Workplace.
+
+## Hobbies 🎸  
+I play a lot of guitar, and love to game! Fighting games have my heart.  
+I am currently learning how to code, making projects that make my life a bit easier.
+
+## Portfolio
+Please reach out if you need a documentation specialist for a project!  
+I am working on bringing my projects onto Github, and the more experience I have, the better!
+
+
+
+![aelm5k](https://github.com/user-attachments/assets/bd21bbc5-28d5-4221-9eb1-90b3cb99202b)
