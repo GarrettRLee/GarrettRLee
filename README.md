@@ -5,7 +5,7 @@ Learning how to code, and documenting the process!
 
 ## Work 💻
 I have experience with writing user manuals, training materials, and proposals.  
-My documentation work has been created through Notebook++ and Microsoft Workplace.
+My documentation work has been through Notebook++ and Microsoft Workplace.
 
 ## Hobbies 🎸  
 I play a lot of guitar, and love to game! Fighting games have my heart.  
