@@ -1,5 +1,5 @@
 <h1 align="center">Yo! I'm Garrett</h1>  
-<h3 align="center">Technical Writer from the American Midwest</h3>
+<h3 align="center">Aspiring Technical Writer from the American Midwest</h3>
 
 Learning how to code, and documenting the process!
 
@@ -12,7 +12,7 @@ DITA, HTML, VS Code, Notebook++, Python
 
 ## Hobbies 🎸  
 I play a lot of guitar, and love to game! Fighting games have my heart.  
-I am currently learning how to code, making projects that make my life a bit easier.
+I am currently learning how to code, making projects to practice documenting them!
 
 ## Portfolio
 Please reach out if you need a documentation specialist for a project!  
