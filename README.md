@@ -7,7 +7,7 @@ Learning how to code, and documenting the process!
 I have experience with writing user manuals, training materials, and proposals.  
 
 ## Tools 🧰
-Markdown, HTML, VS Code, Notebook++, Python
+DITA, HTML, VS Code, Notebook++, Python
 
 ## Hobbies 🎸  
 I play a lot of guitar, and love to game! Fighting games have my heart.  
