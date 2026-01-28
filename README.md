@@ -5,6 +5,7 @@ Learning how to code, and documenting the process!
 
 ## Work 💻
 I have experience with writing user manuals, training materials, and proposals.  
+I have created some coding projects in order to document them and demonstrate my ability to do so.
 
 ## Tools 🧰
 DITA, HTML, VS Code, Notebook++, Python
@@ -15,8 +16,4 @@ I am currently learning how to code, making projects that make my life a bit eas
 
 ## Portfolio
 Please reach out if you need a documentation specialist for a project!  
-I am working on bringing my projects onto Github, and the more experience I have, the better!
-
-
-
-![aelm5k](https://github.com/user-attachments/assets/bd21bbc5-28d5-4221-9eb1-90b3cb99202b)
+I am working on bringing my projects onto Github, the more experience I have, the better!
